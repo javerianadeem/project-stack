@@ -6,7 +6,7 @@
     "dotenv": "^8.2.0",
     "firebase": "^7.2.1",
     "materialize-css": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-materialize": "^3.4.1",
